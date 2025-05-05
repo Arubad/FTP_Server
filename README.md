@@ -58,10 +58,6 @@ ESP32-FTP-Server/
 ├── LICENSE # (Optional) License
 └── libraries/ # (Optional) third-party libraries
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧪 Setup & Upload
